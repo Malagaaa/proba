@@ -1,3 +1,2 @@
 # proba
-Doamne ajuta
-bn b bn bvvbv
+printf("test2")
